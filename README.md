@@ -1,4 +1,4 @@
-# ✈️ Flight Booking CI/CD Pipeline (GitHub Actions)
+# ✈️ Flight Booking CI/CD Pipeline 
 
 This **GitHub Actions** workflow automates the **Continuous Integration and Continuous Deployment (CI/CD)** process for the **Flight Booking project** across **development (dev)** and **production (prod)** environments in **Google Cloud Platform (GCP)**.
 
